@@ -1,1 +1,0 @@
-# vykr.github.io
