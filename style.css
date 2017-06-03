@@ -26,7 +26,6 @@ body{
 #player{
     float:middle;
 	margin-top:40px;
-	background-color:white;
 
 }
 .box{
@@ -45,26 +44,26 @@ body{
 #image{
 	position:absolute;
 	left:900px;
-	top:240px;
+	top:340px;
 	
 }
 
 #image2{
 	position:absolute;
 	left:800px;
-	top:430px;
+	top:530px;
 }
 
 #image3{
     position:absolute;
 	left:840px;
-	top:650px;
+	top:750px;
 
 }
 #image4{
     position:absolute;
 	left:780px;
-	top:850px;
+	top:950px;
 
 }
 #boxf{
